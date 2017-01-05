@@ -16,7 +16,7 @@ gradle build - To build the current project and prepare the apk file.
 ##### 2. MainActivity using the Connectivity Manager and revealing the Mobile network.
 ##### 3. WifiManager revealing current Wifi network related information in WifiActivity.
 ##### 4. TelephonyManager revealing current Mobile network related information in MobileActivity.
-<img src="https://cloud.githubusercontent.com/assets/19269229/21664688/6957b7de-d2e8-11e6-8878-f64837c0cb84.png" alt="MainActivity using the ConnectivityManager and revealing the Wifi network" width="150" height="300">
+<img src="https://cloud.githubusercontent.com/assets/19269229/21664835/5ee518ea-d2e9-11e6-8f11-a14e8cda2798.png" alt="MainActivity using the ConnectivityManager and revealing the Wifi network" width="150" height="300">
 <img src="https://cloud.githubusercontent.com/assets/19269229/21664698/8075f084-d2e8-11e6-8360-66b2e26323f7.png" alt="MainActivity using the Connectivity Manager and revealing the Mobile network" width="150" height="300">
 <img src="https://cloud.githubusercontent.com/assets/19269229/21664725/ad8cef3c-d2e8-11e6-8e52-4dab2213eb1b.png" alt="WifiManager revealing current Wifi network related information in WifiActivity" width="150" height="300">
 <img src="https://cloud.githubusercontent.com/assets/19269229/21664738/c07e9c80-d2e8-11e6-9ddb-018ad4e57d61.png" alt="TelephonyManager revealing current Mobile network related information in MobileActivity" width="150" height="300">
